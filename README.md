@@ -1,6 +1,6 @@
-# Repeating-F3-contest-2
-
 Project Overview (100 Marks)
+
+
 Task
 You are tasked with building a web page that displays data from three different APIs. Each API endpoint returns a JSON object which contains an array of items. Your goal is to fetch the data from all three endpoints and display it on the page in a table.
 To do this, you will need to create three functions that each return a Promise that resolves with the data from their respective API endpoints. Each function should use fetch to make the API request and setTimeout to simulate a delay in the response. Also perform this using promise chaining.
